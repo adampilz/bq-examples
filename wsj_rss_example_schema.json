@@ -1,0 +1,57 @@
+[
+      {
+        "mode": "REQUIRED",
+        "name": "label",
+        "type": "STRING"
+      },
+      {
+        "mode": "REQUIRED",
+        "name": "title",
+        "type": "STRING"
+      },
+      {
+        "mode": "REQUIRED",
+        "name": "link",
+        "type": "STRING"
+      },
+      {
+        "mode": "NULLABLE",
+        "name": "description",
+        "type": "STRING"
+      },
+      {
+        "mode": "NULLABLE",
+        "name": "pubDate",
+        "type": "STRING"
+      },
+      {
+        "mode": "REQUIRED",
+        "name": "guid",
+        "type": "STRING"
+      },
+      {
+        "mode": "NULLABLE",
+        "name": "media_url",
+        "type": "STRING"
+      },
+      {
+        "mode": "NULLABLE",
+        "name": "media_type",
+        "type": "STRING"
+      },
+      {
+        "mode": "NULLABLE",
+        "name": "media_medium",
+        "type": "STRING"
+      },
+      {
+        "mode": "NULLABLE",
+        "name": "media_credit",
+        "type": "STRING"
+      },
+      {
+        "mode": "NULLABLE",
+        "name": "wsj_articletype",
+        "type": "STRING"
+      }
+]
